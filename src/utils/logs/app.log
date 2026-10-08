@@ -1,0 +1,8 @@
+2026-09-24 15:02:30 | DEBUG    | logger.py:55 | 调试信息
+2026-09-24 15:02:30 | INFO     | logger.py:56 | 程序启动
+2026-09-24 15:02:30 | WARNING  | logger.py:57 | 注意潜在问题
+2026-09-24 15:02:30 | ERROR    | logger.py:58 | 发生错误
+2026-09-24 15:07:21 | ERROR    | safe_ops.py:11 | 除零错误: 10 / 0
+2026-09-24 15:07:21 | ERROR    | safe_ops.py:24 | 文件不存在: nofile.txt
+2026-09-24 17:42:49 | ERROR    | safe_ops.py:11 | 除零错误: 8 / 0
+2026-09-24 17:42:49 | ERROR    | safe_ops.py:24 | 文件不存在: missing.txt
